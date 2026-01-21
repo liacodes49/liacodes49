@@ -1,8 +1,3 @@
-
-
-<!--
-**liacodes49/liacodes49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 Hi! I’m a software engineering student who’s deeply curious about how technology works and how ideas turn into real applications 💻✨<br><br>I create YouTube content to document my learning journey in tech—from understanding core programming concepts to building small projects and improving step by step. This space is all about learning out loud, embracing mistakes, and growing through consistency.<br><br>If you’re a student, beginner, or someone who loves watching progress in real time, you’re in the right place 💗 One line of code at a time, we’re building something meaningful.
 
