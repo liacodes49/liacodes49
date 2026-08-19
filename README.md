@@ -1,5 +1,5 @@
-# 💫 About Me:
-“but then it passed, as all things do”<br>🟢 Full-stack developer // student, exploring AI/ML, RAG, LLMs, and modern web technologies.<br>🔨 Building full-stack projects, researching interesting things, and turning random ideas into real products.<br>📚 Product Hunt published<br>💡 Interested in technology, research, storytelling, and creating things that are actually worth building.<br>
+# 𖦹🍀୭ ˚About Me. ᵎᵎ｡🧷𖦹°‧:
+“but then it passed, as all things do”<br>📟 Full-stack developer // student, exploring AI/ML, RAG, LLMs, and modern web technologies.<br>🔨 Building full-stack projects, researching interesting things, and turning random ideas into real products.<br>⭐ Product Hunt published<br>📌 Interested in technology, research, storytelling, and creating things that are actually worth building.<br>
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=liacodes49&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=liacodes49&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=liacodes49&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=liacodes49&theme=calm_pink&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
