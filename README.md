@@ -68,6 +68,6 @@ Figma · Blender · Adobe · Canva
 ![snake gif](https://github.com/liacodes49/liacodes49/blob/output/github-contribution-grid-snake.svg)
 
 
-### 🫧𓇼𓏲*ੈ Q U O T E  O F  T H E  D A Y ✩‧₊˚🎐
+### ✩‧₊˚🎐 Q U O T E  O F  T H E  D A Y 🎐 ✩‧₊˚
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
