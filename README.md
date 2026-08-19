@@ -49,6 +49,8 @@ Figma · Blender · Adobe · Canva
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liacodes49&show_icons=true)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=liacodes49)
+
 ##  ˚ ༘♡ 📗 CONTRIBUTIONS 🍐⋆｡˚ ❀
 
 ![snake gif](https://github.com/liacodes49/liacodes49/blob/output/github-contribution-grid-snake.svg)
