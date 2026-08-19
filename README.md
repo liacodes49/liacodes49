@@ -47,11 +47,11 @@ Figma · Blender · Adobe · Canva
 
 # ˚˖𓍢ִ໋🌷₊˚ GitHub Garden ʚ 🍃 ₊˚:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liacodes49&show_icons=true)
+![](https://github-readme-stats.shion.dev/api?username=liacodes49&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=liacodes49)
+![](https://streak-stats.demolab.com/?user=liacodes49&theme=ambient_gradient&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liacodes49&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=liacodes49&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ##  ˚ ༘♡ 📗 CONTRIBUTIONS 🍐⋆｡˚ ❀
 
