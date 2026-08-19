@@ -44,21 +44,9 @@ Figma · Blender · Adobe · Canva
 ✦ Half my best ideas arrive at unreasonable hours.  
 ✦ I write stories when I'm not writing code.
 
-# ˚˖𓍢ִ໋🌷₊˚ GitHub Garden ʚ 🍃 ₊˚:
+## ˚₊‧꒰ა 🍃 My Little Garden ໒꒱ ‧₊˚
 
-<p align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=liacodes49&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false" width="48%">
-
-<img src="https://streak-stats.demolab.com/?user=liacodes49&theme=ambient_gradient&hide_border=false" width="48%">
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=liacodes49&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="48%">
-
-</p>
+![GitHub Contribution Snake](https://raw.githubusercontent.com/liacodes49/liacodes49/output/github-contribution-grid-snake.svg)
 
 ˚₊‧꒰ა 🍓 ໒꒱ ‧₊˚
 *little commits, little projects, little pieces of the internet*
