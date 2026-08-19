@@ -47,15 +47,7 @@ Figma · Blender · Adobe · Canva
 
 # ˚˖𓍢ִ໋🌷₊˚ GitHub Garden ʚ 🍃 ₊˚:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liacodes49&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=FFF7FB&title_color=D86B9A&text_color=687568&icon_color=8CAF7C" height="180">
-  
-  <img src="https://streak-stats.demolab.com/?user=liacodes49&hide_border=true&background=FFF7FB&ring=D86B9A&fire=E89AB5&currStreakLabel=8CAF7C&sideLabels=687568&currStreakNum=D86B9A&sideNums=8CAF7C&dates=A5A5A5" height="180">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liacodes49&layout=compact&hide_border=true&bg_color=FFF7FB&title_color=D86B9A&text_color=687568&langs_count=8" height="180">
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liacodes49&show_icons=true)
 
 ##  ˚ ༘♡ 📗 CONTRIBUTIONS 🍐⋆｡˚ ❀
 
