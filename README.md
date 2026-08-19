@@ -1,6 +1,6 @@
 # 𖦹🍀୭ ˚ About Me. ᵎᵎ｡🧷𖦹°‧:
 “but then it passed, as all things do”<br>📟 Full-stack developer // student, exploring AI/ML, RAG, LLMs, and modern web technologies.<br>🔨 Building full-stack projects, researching interesting things, and turning random ideas into real products.<br>⭐ Product Hunt published<br>📌 Interested in technology, research, storytelling, and creating things that are actually worth building.<br>
-![](https://komarev.com/ghpvc/?username=liacodes49&color=blueviolet&style=flat-square&label=visitors)
+![](https://komarev.com/ghpvc/?username=liacodes49&color=pinkgreen&style=flat-square&label=visitors)
 
 ## ˙ . ꒷ 🍙 . JOIN MY SERVER 𖦹˙— 🐈‍⬛ :
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Jam47KqBW) 
